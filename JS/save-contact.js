@@ -44,7 +44,7 @@ ORG:RISE Properties
 TEL;TYPE=WORK,VOICE:+971526442638
 TEL;TYPE=WORK,VOICE:+971553075592
 TEL;TYPE=WORK,VOICE:+97145665109
-EMAIL:Muhammad.Shehata@riseproperties.ae
+EMAIL:Muhammad.nezha@riseproperties.ae
 URL:http://www.riseproperties.ae
 ADR;TYPE=WORK:;;PO Box No 455979, Office NO.1607, Opal Tower, Business Bay;Dubai;;UAE
 END:VCARD
